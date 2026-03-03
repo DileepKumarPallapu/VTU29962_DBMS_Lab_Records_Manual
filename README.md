@@ -1,1 +1,1 @@
-# VTU29962_DBMS_Lab_Records_Manual
+# VTU29962_DBMS_Lab_Record
